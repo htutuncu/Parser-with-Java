@@ -1,2 +1,2 @@
-# Cpp-Parser-with-Java
+# Parser-with-Java
 Java ile Regular Expressions kullanılarak bir Cpp kaynak dosyasının analizi.
